@@ -1,4 +1,4 @@
-# digital-image-processing
+# Digital image processing using MATLAB
 In this repo I've some basic image processing scripts and some projects which are implemented using **MATLAB**.
 
 ## Projects
