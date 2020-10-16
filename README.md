@@ -4,10 +4,22 @@ In this repo I've some basic image processing scripts and some projects which ar
 ## Projects
 
 - [x] Video processing GUI app.
+  - Read a video file and segment each frame.
+  - Apply some digital filters as: madian, average, gaussian, laplacian, and unsharpening.
 - [x] Image processing GUI app.
+  - Apply some digital filters as: median, average, Sobel, Robert, Gaussian, and Laplace. 
+  - Apply transformations as: log, power, negative, and Piecewise-Linear.    
+  - Do line detection like: 1st and 2nd derivative, canny, and houghtransform.
+  - Do Histogram equalization.                
 - [x] Face recognition.
+  - Preprocess the faces images.
+  - Use PCA to get faces eigenvalues and eigenvectors.
+  - Do face classification using Euclidean distance.
 - [x] OCR GUI app.
+  - Read a page and preprocessing it.
+  - Extract lines, words, and letters.
 - [x] Sinogram reconstruction for radiology images.
+  - Use inverse Radon transform to do image reconstruction.
 
 ## Simple scripts
 
